@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gurjot Singh</h1>
-<h3 align="center">I'm a software engineer passionate about creating innovative products and building startups, currently honing my skills while working at Wyzard. Alongside my professional journey, I'm diving deep into AI/ML and exploring related technologies to expand my expertise. My goal is to leverage these advanced tools and concepts to create impactful solutions and push the boundaries of what's possible in tech.</h3>
+<p align="center">I'm a software engineer passionate about creating innovative products and building startups, currently honing my skills while working at Wyzard. Alongside my professional journey, I'm diving deep into AI/ML and exploring related technologies to expand my expertise. My goal is to leverage these advanced tools and concepts to create impactful solutions and push the boundaries of what's possible in tech.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurjotsaini53&label=Profile%20views&color=0e75b6&style=flat" alt="gurjotsaini53" /> </p>
 
